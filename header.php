@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
-		<title>Bikcraft - Bicicletas Personalizadas</title>
+		<title>Bikcraft | <?php the_title() ?></title>
 		<meta name="description" content="Compre a sua bicicleta personalizada na Bikcraft. Possuímos modelos Passeio, Retrô e Esporte.">
 
 		<meta property="og:type" content="website"/>
@@ -29,10 +29,10 @@
 				</a>
 				<nav class="grid-12 header_menu">
 					<ul>
-						<li><a href="sobre.html">Sobre</a></li>
-						<li><a href="produtos.html">Produtos</a></li>
-						<li><a href="portfolio.html">Portfólio</a></li>
-						<li><a href="contato.html">Contato</a></li>
+						<li><a href="/about">Sobre</a></li>
+						<li><a href="/products">Produtos</a></li>
+						<li><a href="/portfolio">Portfólio</a></li>
+						<li><a href="/contact">Contato</a></li>
 					</ul>
 				</nav>
 			</div>

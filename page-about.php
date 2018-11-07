@@ -1,3 +1,7 @@
+<?php
+	// Template Name: About template
+?>
+
 <?php get_header() ?>
 		<section class="introducao-interna interna_sobre">
 			<div class="container">

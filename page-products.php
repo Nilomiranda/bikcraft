@@ -1,3 +1,7 @@
+<?php
+	// Template Name: Products template
+?>
+
 <?php get_header() ?>
 		<section class="introducao-interna interna_produtos">
 			<div class="container">
